@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="MovieReservationAPI.API/MovieReservationAPI.API.csproj" />
+  <Project Path="MovieReservationAPI.Infrastructure/MovieReservationAPI.Infrastructure.csproj" />
+  <Project Path="MovieReservationAPI.Persistence/MovieReservationAPI.Persistence.csproj" />
+  <Project Path="ReservationMovieAPI.Application/ReservationMovieAPI.Application.csproj" />
+  <Project Path="ReservationMovieAPI.Domain/ReservationMovieAPI.Domain.csproj" />
+</Solution>
