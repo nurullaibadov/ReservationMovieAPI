@@ -1,7 +1,40 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Backend\\ReservationMovieAPI\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45450A26-6B99-39FF-C6F1-DBA2F9A720AC}|ReservationMovieAPI.Domain\\ReservationMovieAPI.Domain.csproj|c:\\backend\\reservationmovieapi\\reservationmovieapi.domain\\entities\\screening.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45450A26-6B99-39FF-C6F1-DBA2F9A720AC}|ReservationMovieAPI.Domain\\ReservationMovieAPI.Domain.csproj|solutionrelative:reservationmovieapi.domain\\entities\\screening.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45450A26-6B99-39FF-C6F1-DBA2F9A720AC}|ReservationMovieAPI.Domain\\ReservationMovieAPI.Domain.csproj|c:\\backend\\reservationmovieapi\\reservationmovieapi.domain\\entities\\seat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45450A26-6B99-39FF-C6F1-DBA2F9A720AC}|ReservationMovieAPI.Domain\\ReservationMovieAPI.Domain.csproj|solutionrelative:reservationmovieapi.domain\\entities\\seat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45450A26-6B99-39FF-C6F1-DBA2F9A720AC}|ReservationMovieAPI.Domain\\ReservationMovieAPI.Domain.csproj|c:\\backend\\reservationmovieapi\\reservationmovieapi.domain\\entities\\hall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45450A26-6B99-39FF-C6F1-DBA2F9A720AC}|ReservationMovieAPI.Domain\\ReservationMovieAPI.Domain.csproj|solutionrelative:reservationmovieapi.domain\\entities\\hall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45450A26-6B99-39FF-C6F1-DBA2F9A720AC}|ReservationMovieAPI.Domain\\ReservationMovieAPI.Domain.csproj|c:\\backend\\reservationmovieapi\\reservationmovieapi.domain\\entities\\cinema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45450A26-6B99-39FF-C6F1-DBA2F9A720AC}|ReservationMovieAPI.Domain\\ReservationMovieAPI.Domain.csproj|solutionrelative:reservationmovieapi.domain\\entities\\cinema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45450A26-6B99-39FF-C6F1-DBA2F9A720AC}|ReservationMovieAPI.Domain\\ReservationMovieAPI.Domain.csproj|c:\\backend\\reservationmovieapi\\reservationmovieapi.domain\\entities\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45450A26-6B99-39FF-C6F1-DBA2F9A720AC}|ReservationMovieAPI.Domain\\ReservationMovieAPI.Domain.csproj|solutionrelative:reservationmovieapi.domain\\entities\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45450A26-6B99-39FF-C6F1-DBA2F9A720AC}|ReservationMovieAPI.Domain\\ReservationMovieAPI.Domain.csproj|c:\\backend\\reservationmovieapi\\reservationmovieapi.domain\\entities\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45450A26-6B99-39FF-C6F1-DBA2F9A720AC}|ReservationMovieAPI.Domain\\ReservationMovieAPI.Domain.csproj|solutionrelative:reservationmovieapi.domain\\entities\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45450A26-6B99-39FF-C6F1-DBA2F9A720AC}|ReservationMovieAPI.Domain\\ReservationMovieAPI.Domain.csproj|c:\\backend\\reservationmovieapi\\reservationmovieapi.domain\\entities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45450A26-6B99-39FF-C6F1-DBA2F9A720AC}|ReservationMovieAPI.Domain\\ReservationMovieAPI.Domain.csproj|solutionrelative:reservationmovieapi.domain\\entities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45450A26-6B99-39FF-C6F1-DBA2F9A720AC}|ReservationMovieAPI.Domain\\ReservationMovieAPI.Domain.csproj|c:\\backend\\reservationmovieapi\\reservationmovieapi.domain\\entities\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45450A26-6B99-39FF-C6F1-DBA2F9A720AC}|ReservationMovieAPI.Domain\\ReservationMovieAPI.Domain.csproj|solutionrelative:reservationmovieapi.domain\\entities\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +51,110 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Screening.cs",
+              "DocumentMoniker": "C:\\Backend\\ReservationMovieAPI\\ReservationMovieAPI.Domain\\Entities\\Screening.cs",
+              "RelativeDocumentMoniker": "ReservationMovieAPI.Domain\\Entities\\Screening.cs",
+              "ToolTip": "C:\\Backend\\ReservationMovieAPI\\ReservationMovieAPI.Domain\\Entities\\Screening.cs",
+              "RelativeToolTip": "ReservationMovieAPI.Domain\\Entities\\Screening.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAIwBkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T18:04:22.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Seat.cs",
+              "DocumentMoniker": "C:\\Backend\\ReservationMovieAPI\\ReservationMovieAPI.Domain\\Entities\\Seat.cs",
+              "RelativeDocumentMoniker": "ReservationMovieAPI.Domain\\Entities\\Seat.cs",
+              "ToolTip": "C:\\Backend\\ReservationMovieAPI\\ReservationMovieAPI.Domain\\Entities\\Seat.cs",
+              "RelativeToolTip": "ReservationMovieAPI.Domain\\Entities\\Seat.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T18:01:39.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Hall.cs",
+              "DocumentMoniker": "C:\\Backend\\ReservationMovieAPI\\ReservationMovieAPI.Domain\\Entities\\Hall.cs",
+              "RelativeDocumentMoniker": "ReservationMovieAPI.Domain\\Entities\\Hall.cs",
+              "ToolTip": "C:\\Backend\\ReservationMovieAPI\\ReservationMovieAPI.Domain\\Entities\\Hall.cs",
+              "RelativeToolTip": "ReservationMovieAPI.Domain\\Entities\\Hall.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAzwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T17:53:10.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cinema.cs",
+              "DocumentMoniker": "C:\\Backend\\ReservationMovieAPI\\ReservationMovieAPI.Domain\\Entities\\Cinema.cs",
+              "RelativeDocumentMoniker": "ReservationMovieAPI.Domain\\Entities\\Cinema.cs",
+              "ToolTip": "C:\\Backend\\ReservationMovieAPI\\ReservationMovieAPI.Domain\\Entities\\Cinema.cs",
+              "RelativeToolTip": "ReservationMovieAPI.Domain\\Entities\\Cinema.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAIwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T17:42:00.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "C:\\Backend\\ReservationMovieAPI\\ReservationMovieAPI.Domain\\Entities\\Genre.cs",
+              "RelativeDocumentMoniker": "ReservationMovieAPI.Domain\\Entities\\Genre.cs",
+              "ToolTip": "C:\\Backend\\ReservationMovieAPI\\ReservationMovieAPI.Domain\\Entities\\Genre.cs",
+              "RelativeToolTip": "ReservationMovieAPI.Domain\\Entities\\Genre.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T17:40:53.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Backend\\ReservationMovieAPI\\ReservationMovieAPI.Domain\\Entities\\Movie.cs",
+              "RelativeDocumentMoniker": "ReservationMovieAPI.Domain\\Entities\\Movie.cs",
+              "ToolTip": "C:\\Backend\\ReservationMovieAPI\\ReservationMovieAPI.Domain\\Entities\\Movie.cs",
+              "RelativeToolTip": "ReservationMovieAPI.Domain\\Entities\\Movie.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T10:31:16.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Backend\\ReservationMovieAPI\\ReservationMovieAPI.Domain\\Entities\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "ReservationMovieAPI.Domain\\Entities\\ApplicationUser.cs",
+              "ToolTip": "C:\\Backend\\ReservationMovieAPI\\ReservationMovieAPI.Domain\\Entities\\ApplicationUser.cs",
+              "RelativeToolTip": "ReservationMovieAPI.Domain\\Entities\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T10:14:10.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Backend\\ReservationMovieAPI\\ReservationMovieAPI.Domain\\Entities\\Common\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "ReservationMovieAPI.Domain\\Entities\\Common\\BaseEntity.cs",
+              "ToolTip": "C:\\Backend\\ReservationMovieAPI\\ReservationMovieAPI.Domain\\Entities\\Common\\BaseEntity.cs",
+              "RelativeToolTip": "ReservationMovieAPI.Domain\\Entities\\Common\\BaseEntity.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T09:57:58.833Z",
+              "EditorCaption": ""
             }
           ]
         }
